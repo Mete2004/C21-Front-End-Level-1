@@ -1,0 +1,64 @@
+
+body{background-color: beige;
+}
+.MijnAfbeelding{
+    width:550px;
+    height:400px;
+    text-align:right;
+    font-size: 2px;
+}
+
+div.content{
+    background-color:whitesmoke;
+    height: 400px;
+    width: 550px;
+    border:5px solid #000000;
+    float:left;
+    margin:0px;
+    margin-right: 80px;
+    margin-top:-90px;
+    font-size: 25px;
+}
+div.content1{
+    background-color: beige;
+    height: 400px;
+    width: 550px;
+    border:5px solid #000000 ;
+    float: left;
+    margin: 0px;
+    margin-left: 200px;
+    margin-top:-90px ;
+    
+}
+div.content2{
+    background-color:beige;
+    height: 400px;
+    width: 550px;
+    border:5px solid #000000;
+    float:left;
+    margin:0px;
+    margin-right:200px;
+    margin-top: 50px;
+}
+div.content3{
+    background-color:beige;
+    height: 400px;
+    width: 550px;
+    border:5px solid #000000;
+    float:left;
+    margin:0px;
+    margin-left:80px;
+    margin-top:50px ;
+}
+
+h1{
+    font-size: 45px;
+    text-align:center;
+}   
+
+h3{
+   text-align:left;
+    font-size: 30px;
+   line-height: 180px;
+   margin-left: 130px;
+}   
